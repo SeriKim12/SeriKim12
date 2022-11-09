@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeriKim12
 - 👀 I’m interested in NLP.
-- 🌱 I’m currently working as a junior developer in the mental health AI start-up.
+- 🌱 I’m currently working as a junior developer at the mental health AI start-up.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : ksr@maumdoore.com
 
